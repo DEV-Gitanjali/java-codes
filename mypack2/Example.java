@@ -1,6 +1,6 @@
 package mypack2 ;
 
-import MyPack.Simply ;
+import MyPack1.Simply;
 
 public class Example {
 

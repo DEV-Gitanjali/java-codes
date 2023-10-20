@@ -14,8 +14,7 @@ public class ConstructorStudent {
 
          ConstructorStudent s2= new ConstructorStudent();
 
-         S1.disply();
-         s2.disply();
+         
 
         
     }
