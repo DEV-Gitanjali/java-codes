@@ -1,11 +1,11 @@
-abstract class shape{
+abstract class Shape{
 
  abstract void draw();
 
 
 }
 
-class Rectangle extends  shape{
+class Rectangle extends  Shape{
 
     void draw();
     {
@@ -16,7 +16,7 @@ class Rectangle extends  shape{
 
 }
 
-class Circle extends  shape{
+class Circle extends  Shape{
 
     void draw();
     {
@@ -27,10 +27,10 @@ class Circle extends  shape{
 
 public class TestAbstraction {
 
-    public static void main(String args[]
+    public static void main(String args[])
     {
-        shape . s =new Circle();
+        Shape . s =new Circle();
         s.draw();
-    })
+    }
     
 }
