@@ -6,11 +6,12 @@ public class Examplestring6 {
         String s2 =new String ("computer");
 
         //if (s1.equals(S2));
-        if(s1.equalsIgnoreCase(s2));
+        // if(s1.equalsIgnoreCase(s2));
+        if(s1.compareTo(s2));
 
         System.out.println(" String are same");
 
-        else
+       else
 
               System.out.println("string are not same");
 
