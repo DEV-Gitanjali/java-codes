@@ -14,7 +14,7 @@ public class Fileexample {
 
         for(i=0; i<s.length();i++)
 
-        fout. write  (ch[i]);
+        fout. write(ch[i]);
 
         fout.close();
 
