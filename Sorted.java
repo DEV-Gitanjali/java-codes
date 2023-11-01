@@ -6,12 +6,20 @@ public class Sorted {
     {
         TreeSet  t = new TreeSet();
 
-        t.add("A");
         t.add("B");
-        t.add("C");
         t.add("D");
+        t.add("C");
+        t.add("A");
 
-        System.out.println(t.last());
+       // System.out.println(t.last());
+
+       //System.out.println(t.first());
+
+      // System.out.println(t.headSet("C"));
+
+      //System.out.println(t.tailSet("C"));
+
+      System.out.println(t.subset("B" ,"D"));
     }
 
 
