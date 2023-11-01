@@ -15,6 +15,7 @@ public class Example49 {
 
         System.out.println(v);
         Enumeration e = v.Element();
+        
         while (e.hasMoreElements())
 
         String s = (String )e.nextElement();
