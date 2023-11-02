@@ -21,5 +21,8 @@ public class Arrays {
 
       System.out.println(a[i]+" ");
 
- } 
+ 
+    } 
+
+
 }
