@@ -8,7 +8,7 @@ class Student1{
         Student1 s1 = new Student1();
 
         System.out.println(s1.id);
-
+ 
         System.out.println(s1.name);
     }
 }
