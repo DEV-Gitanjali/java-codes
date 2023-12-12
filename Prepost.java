@@ -8,7 +8,9 @@ public class Prepost {
         System.out.println(++a);
 
         
-        System.out.println("prep
+        System.out.println("prepost decre....");
+        System.out.println(a--);
+        System.out.println(--a);
 
     
 
