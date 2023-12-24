@@ -12,7 +12,7 @@ public class Sum1 {
             sum = sum + i;
         }
 
-        System.out.println("ADDITION" + sum);
+        System.out.println("ADDITION =" + sum);
     }
 
 }
