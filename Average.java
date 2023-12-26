@@ -17,7 +17,7 @@ public class Average {
         e = r.nextInt();
 
         int sum = a + b + c + d + e;
-        System.out.println("Total marks =" + sum);
+        System.out.println("Total marks = " + sum);
 
         double avg = sum / 5.0;
         System.out.println("Average marks =" + avg);
