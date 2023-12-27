@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Vote {
+public class Vote implements hiii {
 
     public static void main(String args[]) {
         int age;
