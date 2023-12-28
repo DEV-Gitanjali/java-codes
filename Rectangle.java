@@ -13,7 +13,7 @@ public class Rectangle {
 
         area = l * b;
 
-        System.out.println("Area of Rectangle" + area);
+        System.out.println("Area of Rectangle =" + area);
 
     }
 
