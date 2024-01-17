@@ -23,7 +23,7 @@ public class Array_avg {
         }
         avg = sum / 5;
 
-        System.out.print(sum + " " + avg);
+        System.out.print(sum + " " + avg );
     }
 
 }
